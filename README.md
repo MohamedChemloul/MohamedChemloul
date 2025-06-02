@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm محمد أمين شملول 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Amine Chemloul| محمد أمين  👋</h1>
 <h3 align="center">Frontend Developer 💻 | React & Tailwind Enthusiast | Passionate about Clean & Responsive UI</h3>
 
 <p align="center">
@@ -9,8 +9,9 @@
 </p>
 
 ---
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="3px" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,js,html,css,git,github,vscode,firebase" alt="Tech Icons" />
+</p>
 
 ## 🚀 About Me
 
